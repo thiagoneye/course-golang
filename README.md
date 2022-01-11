@@ -1,8 +1,4 @@
 # course-golang
- Go language studies.
-
-
-# course-golang
 
 Go language studies from the YouTube website.
 
