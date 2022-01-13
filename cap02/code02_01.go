@@ -1,6 +1,7 @@
 // https://www.youtube.com/c/AprendaGo/videos
 // https://youtu.be/QT7YvrEWMGE
 // https://github.com/ellenkorbes/aprendago
+// Cap. 02.04.
 
 package main
 
