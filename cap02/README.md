@@ -3,6 +3,8 @@
 1. Short declaration operator
 2. Zero value
 3. The package "fmt"
+4. Creating your own type
+5. Conversion of types
 
 ## Others
 
