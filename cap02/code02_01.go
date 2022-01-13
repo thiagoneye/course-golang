@@ -1,7 +1,8 @@
+// https://github.com/ellenkorbes/aprendago
 // https://www.youtube.com/c/AprendaGo/videos
 // https://youtu.be/QT7YvrEWMGE
-// https://github.com/ellenkorbes/aprendago
-// Cap. 02.04.
+// Cap. 02.03.
+// Operador curto de declaração
 
 package main
 
