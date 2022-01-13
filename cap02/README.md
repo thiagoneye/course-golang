@@ -4,7 +4,7 @@
 2. Zero value
 3. The package "fmt"
 4. Creating your own type
-5. Conversion of types
+5. Type conversion
 
 ## Others
 
