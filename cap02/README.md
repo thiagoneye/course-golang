@@ -1,13 +1,13 @@
 # Content
 
+<img src="course-golang/img/batman_gopher.png" width="400px">
+
 Variables, Values and Types
 
 1. Short declaration operator
 2. Zero value
 3. The package "fmt"
 4. Creating your own type
-
-<img src="img/batman_gopher.png" width="400px">
 
 ## Others
 
