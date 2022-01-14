@@ -1,5 +1,7 @@
 # Content
 
+<img src="../img/doctor_strange_gopher.png" width="200px">
+
 Programming Fundamentals
 
 1. Bool type
@@ -10,8 +12,6 @@ Programming Fundamentals
 6. Constants
 7. Iota
 8. Bit Shift
-
-<img src="img/doctor_strange_gopher.png" width="400px">
 
 ## Others
 
