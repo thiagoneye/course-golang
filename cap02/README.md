@@ -1,7 +1,5 @@
 # Content
 
-<img src="../img/batman_gopher.png" width="200px">
-
 Variables, Values and Types
 
 1. Short declaration operator
