@@ -2,7 +2,7 @@
 
 <img src="img/google.png" width="400px">
 
-Go language studies from the YouTube website.
+Go language studies from the YouTube.
 
 All files were based on the course from the cited website.
 
