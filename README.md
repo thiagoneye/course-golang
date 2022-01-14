@@ -15,3 +15,5 @@ https://github.com/ashleymcnamara/gophers
 ## Others
 
 See also the repositories [beecrowd-programming](https://github.com/thiagoneye/beecrowd-programming) and [book-golang](https://github.com/thiagoneye/book-golang).
+
+Git Study: Merge Test
