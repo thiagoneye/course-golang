@@ -6,7 +6,7 @@ Go language studies from the YouTube.
 
 All files were based on the course from the cited website.
 
-- https://www.youtube.com/c/AprendaGo/about
+- https://www.youtube.com/c/AprendaGo
 - https://github.com/ellenkorbes/aprendago
 - https://github.com/ashleymcnamara/gophers
 
