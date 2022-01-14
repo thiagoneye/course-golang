@@ -1,5 +1,7 @@
 # Content
 
+Variables, Values and Types
+
 1. Short declaration operator
 2. Zero value
 3. The package "fmt"
