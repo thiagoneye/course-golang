@@ -1,6 +1,6 @@
 # Content
 
-<img src="course-golang/img/batman_gopher.png" width="400px">
+<img src="../img/batman_gopher.png" width="200px">
 
 Variables, Values and Types
 
