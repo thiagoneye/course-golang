@@ -1,9 +1,5 @@
 # Content
 
-<img src="../img/doctor_strange_gopher.png" width="200px">
-
-Programming Fundamentals
-
 1. Bool type
 2. Numerical types
 3. Overflow
