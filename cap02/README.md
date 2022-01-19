@@ -1,4 +1,4 @@
-# Content
+# Contents
 
 Variables, Values and Types
 

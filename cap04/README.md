@@ -1,4 +1,6 @@
-# Content
+# Contents
+
+Programming Fundamentals
 
 1. Bool type
 2. Numerical types
