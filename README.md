@@ -16,7 +16,7 @@ All files were based on the course from the cited website.
 2. [Variables, values and types](https://github.com/thiagoneye/course-golang/tree/main/cap02)
 3. [Exercises](https://github.com/thiagoneye/course-golang/tree/main/cap03)
 4. [Programming Fundamentals](https://github.com/thiagoneye/course-golang/tree/main/cap04)
-5. [Exercises](https://github.com/thiagoneye/course-golang/tree/main/cap5)
+5. [Exercises](https://github.com/thiagoneye/course-golang/tree/main/cap05)
 6. [Control Flow](https://github.com/thiagoneye/course-golang/tree/main/cap06)
 7. [Exercises](https://github.com/thiagoneye/course-golang/tree/main/cap07)
 8. [Data Grouping](https://github.com/thiagoneye/course-golang/tree/main/cap08)
