@@ -21,8 +21,8 @@ All files were based on the course from the cited website.
 7. [Exercises](https://github.com/thiagoneye/course-golang/tree/main/cap07)
 8. [Data Grouping](https://github.com/thiagoneye/course-golang/tree/main/cap08)
 9. [Exercises](https://github.com/thiagoneye/course-golang/tree/main/cap09)
-10. Structs <!--- [Structs](https://github.com/thiagoneye/course-golang/tree/main/cap10) -->
-11. Exercises <!--- [Exercises](https://github.com/thiagoneye/course-golang/tree/main/cap11) -->
+10. [Structs](https://github.com/thiagoneye/course-golang/tree/main/cap10)
+11. [Exercises](https://github.com/thiagoneye/course-golang/tree/main/cap11)
 12. Functions <!--- [Functions](https://github.com/thiagoneye/course-golang/tree/main/cap12) -->
 13. Exercises <!--- [Exercises](https://github.com/thiagoneye/course-golang/tree/main/cap13) -->
 14. Pointers <!--- [Pointers](https://github.com/thiagoneye/course-golang/tree/main/cap14) -->
